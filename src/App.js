@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://ashokitech.com/"
+          href="http://badaldevops.online/"
           target="_blank"
           rel="noopener noreferrer"
         >
